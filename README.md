@@ -11,6 +11,11 @@ please include the following link as a reference:
 
 Masakatsu Kawata: https://github.com/Prof-Carter/Carterlib
 
+## Overview
+Simulink library "carterlib" provides a set of Simulink blocks.  
+* Motor driver DRV8833
+* Angle sensor (magnetic absolute encoder: I2C device) AS5601
+
 ## Supported Versions
 - MATLAB/Simulink R2023a or later
 
