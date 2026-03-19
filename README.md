@@ -1,9 +1,12 @@
 # carterlib
 
-<img width="1333" height="827" alt="image" src="https://github.com/user-attachments/assets/b4f640c6-4a7b-4047-bd93-25848a2058b5" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/6bc8d882-8603-4b5b-976d-1634d3c0074e" />
 
 ## Update History
 
+* ver.1.1 Release (2026/03/19)
+    * Add I2C module configuration
+    * Change default "Sample Time" of "I2C Read" from 0.005s to -1 (-1 for inherited)
 * ver.1.0 Release (2026/01/05)
 
 ## Citation / Usage Notice
