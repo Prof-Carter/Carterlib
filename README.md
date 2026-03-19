@@ -5,8 +5,8 @@
 ## Update History
 
 * ver.1.1 Release (2026/03/19)
-    * Add I2C module configuration
-    * Change default "Sample Time" of "I2C Read" from 0.005s to -1 (-1 for inherited)
+    * Add I2C module configuration for "AS5601 Angle Sensor"
+    * Change default "Sample Time" of "I2C Read" from 0.005s to -1 (-1 for inherited) for "AS5601 Angle Sensor"
 * ver.1.0 Release (2026/01/05)
 
 ## Citation / Usage Notice
