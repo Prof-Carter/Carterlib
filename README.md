@@ -16,6 +16,9 @@
    * Add I2C module configuration for "AS5601 Angle Sensor"
 * ver.1.0 Release (2026/01/05)
 
+Previous versions are available here:
+https://github.com/Prof-Carter/Carterlib_Release
+
 ## Citation / Usage Notice
 
 If you use this library in a research presentation, paper, or educational material,
