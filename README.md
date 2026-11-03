@@ -1,19 +1,23 @@
 # carterlib
 
-<img width="640" alt="image" src="https://github.com/user-attachments/assets/9d1f7719-d0c3-456a-87b4-4a9698f30760" />
+<img width="640" alt="image" src="https://github.com/user-attachments/assets/054cebc9-d5cb-4758-97f7-8c2c65199c41" />
 <p>
 <img width="360" alt="image" src="https://github.com/user-attachments/assets/dbb325da-1946-4695-a5fb-abbf615aa675" />
 
 <img width="360" alt="image" src="https://github.com/user-attachments/assets/75821c07-ac90-436b-a007-b0e684745b8c" />
+<p>
+<img width="360" alt="image" src="https://github.com/user-attachments/assets/f82fd559-f0be-45a2-9c6a-f1503e851d56" />
 
 
 ## Update History
 
+* ver.1.3 Release (2026/11/03)
+   * Add I2C module configuration for "AS5048B Angle Sensor" (14bit magnetic absolute encoder)
 * ver.1.2 Release (2026/03/29)
    * Use basic Simulink blocks instead of a MATLAB Function for the "AS5601 Angle Sensor"
    * Change default "Sample Time" of "I2C Read" from 0.005s to -1 (-1 for inherited) 
 * ver.1.1 Release (2026/03/19)
-   * Add I2C module configuration for "AS5601 Angle Sensor"
+   * Add I2C module configuration for "AS5601 Angle Sensor" (12bit magnetic absolute encoder)
 * ver.1.0 Release (2026/01/05)
 
 Previous versions are available here:
@@ -29,7 +33,8 @@ Masakatsu Kawata: https://github.com/Prof-Carter/Carterlib
 ## Overview
 Simulink library "carterlib" provides a set of Simulink blocks.  
 * Motor driver DRV8833
-* Angle sensor (magnetic absolute encoder: I2C device) AS5601
+* Angle sensor (12bit magnetic absolute encoder: I2C device) AS5601
+* Angle sensor (14bit magnetic absolute encoder: I2C device) AS5048B
 
 ## Supported Versions
 - MATLAB/Simulink R2023a or later
