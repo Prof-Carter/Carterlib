@@ -2,15 +2,24 @@
 
 <img width="720" alt="image" src="https://github.com/user-attachments/assets/f86da875-1947-4e8a-bd73-1981298901d9" />
 <p>
+
 <img width="360" alt="image" src="https://github.com/user-attachments/assets/dbb325da-1946-4695-a5fb-abbf615aa675" />
+<p>
 
 <img width="360" alt="image" src="https://github.com/user-attachments/assets/75821c07-ac90-436b-a007-b0e684745b8c" />
 <p>
+  
 <img width="360" alt="image" src="https://github.com/user-attachments/assets/f82fd559-f0be-45a2-9c6a-f1503e851d56" />
+<p>
+
+<img width="463" height="256" alt="image" src="https://github.com/user-attachments/assets/81c0204f-56f1-48d2-bc96-639008a274b1" />
+
 
 
 ## Update History
 
+* ver.1.4 Release (2026/11/10)
+   * Add I2C module configuration for "MT6701 Angle Sensor" (14-bit magnetic absolute encoder)
 * ver.1.3 Release (2026/11/03)
    * Add I2C module configuration for "AS5048B Angle Sensor" (14-bit magnetic absolute encoder)
 * ver.1.2 Release (2026/03/29)
@@ -35,6 +44,7 @@ Simulink library "carterlib" provides a set of Simulink blocks.
 * Motor driver DRV8833
 * Angle sensor (12-bit magnetic absolute encoder: I2C device) AS5601
 * Angle sensor (14-bit magnetic absolute encoder: I2C device) AS5048B
+* Angle sensor (14-bit magnetic absolute encoder: I2C device) MT6701
 
 ## Supported Versions
 - MATLAB/Simulink R2023a or later
