@@ -4,17 +4,20 @@
 <img width="720" alt="image" src="https://github.com/user-attachments/assets/dbffd446-bd03-4182-9ac4-e59cb0c2416d" />
 <p><p>
 
-<img width="360" alt="image" src="https://github.com/user-attachments/assets/dbb325da-1946-4695-a5fb-abbf615aa675" />
-<img width="360" alt="image" src="https://github.com/user-attachments/assets/75821c07-ac90-436b-a007-b0e684745b8c" />
+<img width="360" alt="image" src="https://github.com/user-attachments/assets/ee927bca-5184-4695-a641-32033a473da1" />
+<img width="360" alt="image" src="https://github.com/user-attachments/assets/2b4a2255-46a2-47ea-99af-7d687071da25" />
+
 <p>
   
-<img width="360" alt="image" src="https://github.com/user-attachments/assets/f82fd559-f0be-45a2-9c6a-f1503e851d56" />
-<img width="360" alt="image" src="https://github.com/user-attachments/assets/81c0204f-56f1-48d2-bc96-639008a274b1" />
-
+<img width="360" alt="image" src="https://github.com/user-attachments/assets/876a4a15-1cef-4970-a3eb-53721fc1329c" />
+<img width="360" alt="image" src="https://github.com/user-attachments/assets/ee072a51-633d-4f9f-87b0-afc7f7f49941" />
 
 
 ## Update History
 
+* ver.1.5 Release (2026/11/20)
+   * Add I2C address configuration for "MT6701 Angle Sensor"
+   * Fix a bug in "AS5048B Angle Sensor (relative angle detection [deg])"
 * ver.1.4 Release (2026/11/10)
    * Add I2C module configuration for "MT6701 Angle Sensor" (14-bit magnetic absolute encoder)
 * ver.1.3 Release (2026/11/03)
