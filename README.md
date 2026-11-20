@@ -19,14 +19,14 @@
    * Add I2C address configuration for "MT6701 Angle Sensor"
    * Fix a bug in "AS5048B Angle Sensor (relative angle detection [deg])"
 * ver.1.4 Release (2026/11/10)
-   * Add I2C module configuration for "MT6701 Angle Sensor" (14-bit magnetic absolute encoder)
+   * Add Simulink block for "MT6701 Angle Sensor" (14-bit magnetic absolute encoder)
 * ver.1.3 Release (2026/11/03)
-   * Add I2C module configuration for "AS5048B Angle Sensor" (14-bit magnetic absolute encoder)
+   * Add Simulink block for "AS5048B Angle Sensor" (14-bit magnetic absolute encoder)
 * ver.1.2 Release (2026/03/29)
    * Use basic Simulink blocks instead of a MATLAB Function for the "AS5601 Angle Sensor"
    * Change default "Sample Time" of "I2C Read" from 0.005s to -1 (-1 for inherited) 
 * ver.1.1 Release (2026/03/19)
-   * Add I2C module configuration for "AS5601 Angle Sensor" (12-bit magnetic absolute encoder)
+   * Add Simulink block for "AS5601 Angle Sensor" (12-bit magnetic absolute encoder)
 * ver.1.0 Release (2026/01/05)
 
 Previous versions are available here:
